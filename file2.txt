@@ -3,6 +3,9 @@ mac adm cdrom sudo dip plugdev users lpadmin
 mac
 .
 ..
+<<<<<<< HEAD
 file1.txt
+=======
+>>>>>>> dev
 file2.txt
 .git
